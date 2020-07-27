@@ -6,6 +6,9 @@
 - nodejs
 - vim
 - networkmanager
+- fontconfig
+- libx11
+- libxft
 
 
 # AUR
