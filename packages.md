@@ -5,6 +5,7 @@
 - git-lfs
 - nodejs
 - vim
+- networkmanager
 
 
 # AUR
