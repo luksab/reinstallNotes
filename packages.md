@@ -15,6 +15,7 @@
 - spotify-tui
 - spotifyd
 - visual-studio-code-bin
+- ruby-fusuma
 
 # build from scratch
 - [Luke's st](https://github.com/LukeSmithxyz/st)
