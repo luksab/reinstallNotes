@@ -9,6 +9,9 @@
 - fontconfig
 - libx11
 - libxft
+- dmenu
+- freetype2
+- libxinerama
 
 
 # AUR
