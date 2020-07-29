@@ -1,4 +1,4 @@
-# reinstallNotes for hp spectre x360
+# reinstallNotes for hp spectre x360 13-ap0109ng
 
 ## main install
 - flash [manjaro](https://manjaro.org/downloads/official/architect/)
