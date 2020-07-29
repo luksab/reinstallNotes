@@ -12,7 +12,7 @@
 - dmenu
 - freetype2
 - libxinerama
-
+- xf86-input-synaptics
 
 # AUR
 - spotify-tui
