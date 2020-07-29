@@ -11,10 +11,11 @@
 ## audio
 - install `alsa-firmware alsa-tools`
 - start `hdajackretask`
-- show unconnected pins
-- override 0x14 with internal speaker (LFE)
-- override 0x1e with internal speaker
-- click Install boot override
+- select `Realtek ALC285` from the dropdown up top
+- click `show unconnected pins` on the right
+- override `0x14` with `internal speaker (LFE)`
+- override `0x1e` with `internal speaker`
+- click `Install boot override`
 
 ## obs + NDI + v4l2loopback
 - install `obs-studio v4l2loopback-git obs-v4l2sink-git obs-ndi-git avahi`
