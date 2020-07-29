@@ -1,5 +1,5 @@
 .config/fusuma/config.yml
-
+```
 swipe:
   3:
     left:
@@ -34,3 +34,4 @@ threshold:
 interval:
   swipe: 1
   pinch: 1
+```
