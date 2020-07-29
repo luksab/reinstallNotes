@@ -1,5 +1,13 @@
 # reinstallNotes for hp spectre x360
 
+## main install
+- flash [manjaro](https://manjaro.org/downloads/official/architect/)
+- `gpg --keyserver hkp://keys.gnupg.net --receive-keys KEY`
+- install CLI System
+- `systemcli enable NetworkManager`
+- `systemcli enable NetworkManager`
+- `nmcli d wifi connect SSID password PASSWORD`
+
 Use kernel 5.4 for audio support
 ## audio
 - install `alsa-firmware alsa-tools`
