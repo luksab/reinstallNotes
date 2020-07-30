@@ -28,3 +28,6 @@
 - `systemctl start avahi-daemon.service`
 - `systemctl start avahi-dnsconfd.service`
 
+
+## undervolt
+`sudo undervolt -v --gpu -50 --core -100 --cache -100 --uncore -100 --analogio -100 --temp 60`
