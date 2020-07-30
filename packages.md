@@ -19,6 +19,7 @@
 - spotifyd
 - visual-studio-code-bin
 - ruby-fusuma
+- python-undervolt
 
 # build from scratch
 - [Luke's LARBS](https://github.com/LukeSmithxyz/larbs)
