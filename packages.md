@@ -14,12 +14,16 @@
 - libxinerama
 - xf86-input-synaptics
 
+`sudo pacman -S acpi blender git git-lfs nodejs vim networkmanager fontconfig libx11 libxft dmwnu freetype2 libxinerama xf86-input-synaptics`
+
 # AUR
 - spotify-tui
 - spotifyd
 - visual-studio-code-bin
 - ruby-fusuma
 - python-undervolt
+
+`yay -S spotify-tui spotifyd visual-studio-code-bin ruby-fusuma python-undervolt`
 
 # build from scratch
 - [Luke's LARBS](https://github.com/LukeSmithxyz/larbs)
