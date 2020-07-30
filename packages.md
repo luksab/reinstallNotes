@@ -21,6 +21,6 @@
 - ruby-fusuma
 
 # build from scratch
-- [Luke's st](https://github.com/LukeSmithxyz/st)
+- [Luke's LARBS](https://github.com/LukeSmithxyz/larbs)
 - [My dwm](https://github.com/luksab/dwm)
 - [xwinwrap](https://github.com/ujjwal96/xwinwrap)
