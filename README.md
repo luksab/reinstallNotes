@@ -7,6 +7,12 @@
 - `systemctl start NetworkManager`
 - `nmcli d wifi connect SSID password PASSWORD`
 
+## boot
+
+## install LARBS
+- `curl -LO larbs.xyz/larbs.sh`
+- `sh larbs.sh`
+
 ## audio
 ### option 1
 - install `pulseaudio-git sof-firmware` and `systemctl --user enable --now pulseaudio`
