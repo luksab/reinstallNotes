@@ -14,6 +14,7 @@ xcompmgr &              # xcompmgr for transparency
 dunst &                 # dunst for notifications 
 xset r rate 300 50 &    # Speed xrate up 
 unclutter &             # Remove mouse when idle 
+setxkbmap de &          # Set german keyboard
 spotifyd &              # Spotify background 
 fusuma &                # Touchpad gestures 
 ```
