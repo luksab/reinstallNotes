@@ -13,6 +13,10 @@
 - `curl -LO larbs.xyz/larbs.sh`
 - `sh larbs.sh`
 
+## update keyserver... should be fixed soonIsh
+To make this work permanently I appended "keyserver pool.sks-keyservers.net" into ~/.gnupg/gpg.conf
+The file wasn't there to begin with so I copied the one used by pacman in /etc/pacman.d/gnupg/gpg.conf and then added the line.
+
 ## audio
 ### option 1
 - install `pulseaudio-git sof-firmware` and `systemctl --user enable --now pulseaudio`
