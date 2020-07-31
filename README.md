@@ -31,7 +31,7 @@ The file wasn't there to begin with so I copied the one used by pacman in /etc/p
 - click `Install boot override`
 
 ## obs + NDI + v4l2loopback
-- install `obs-studio v4l2loopback-git obs-v4l2sink-git obs-ndi-git avahi`
+- install `obs-studio v4l2loopback-dkms-git obs-v4l2sink-git obs-ndi-git avahi`
 - `systemctl enable avahi-daemon.service`
 - `systemctl enable avahi-dnsconfd.service`
 - `systemctl start avahi-daemon.service`
