@@ -13,8 +13,9 @@
 - freetype2
 - libxinerama
 - xf86-input-synaptics
+- xf86-video-intel
 
-`sudo pacman -S acpi blender git git-lfs nodejs vim networkmanager fontconfig libx11 libxft dmwnu freetype2 libxinerama xf86-input-synaptics`
+`sudo pacman -S acpi blender git git-lfs nodejs vim networkmanager fontconfig libx11 libxft dmenu freetype2 libxinerama xf86-input-synaptics xf86-video-intel`
 
 # AUR
 - spotify-tui
