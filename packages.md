@@ -24,7 +24,7 @@
 - ruby-fusuma
 - python-undervolt
 
-`yay -S spotify-tui spotifyd visual-studio-code-bin ruby-fusuma python-undervolt`
+`yay -S spotify-tui spotifyd visual-studio-code-bin ruby-fusuma python-undervolt fusuma libinput`
 
 # build from scratch
 - [Luke's LARBS](https://github.com/LukeSmithxyz/larbs)
