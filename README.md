@@ -42,3 +42,7 @@ The file wasn't there to begin with so I copied the one used by pacman in /etc/p
 
 ## undervolt
 `sudo undervolt -v --gpu -50 --core -100 --cache -100 --uncore -100 --analogio -100 --temp 60`
+
+## screenshots
+`git clone https://github.com/luksab/scripts` to home directory
+
