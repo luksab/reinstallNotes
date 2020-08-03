@@ -14,9 +14,10 @@
 - libxinerama
 - xf86-input-synaptics
 - xf86-video-intel
+- xorg-xinput
 - discord
 
-`sudo pacman -S acpi blender git git-lfs nodejs vim networkmanager fontconfig libx11 libxft dmenu freetype2 libxinerama xf86-input-synaptics xf86-video-intel discord`
+`sudo pacman -S acpi blender git git-lfs nodejs vim networkmanager fontconfig libx11 libxft dmenu freetype2 libxinerama xf86-input-synaptics xf86-video-intel xorg-xinput discord`
 
 # AUR
 - spotify-tui
